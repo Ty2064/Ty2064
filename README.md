@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+Stack
+C     HTML     CSS     JavaScript    
+
+
 <!--
 **Ty2064/Ty2064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
