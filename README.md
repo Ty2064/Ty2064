@@ -1,4 +1,5 @@
 ## Hi there 👋
+Iniciant prgrammer and Dev jr
 
 
 Stack
