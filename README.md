@@ -7,14 +7,14 @@ I am currently building my foundation in technology through studies, personal pr
 
 🚀 About Me
 {
-🎓 Bachelor’s Degree in Information Systems
-🐍 Studying Python
-🌐 Studying HTML, CSS, JavaScript, and TypeScript
-🔧 Learning Git and GitHub
-🖥️ Exploring Frontend and Backend Development
-🌐 Studying Computer Networking
-🤖 Interested in Artificial Intelligence and Automation
-🛠️ Developing personal projects to apply my knowledge
+- Bachelor’s Degree in Information Systems
+- Studying Python
+- Studying HTML, CSS, JavaScript, and TypeScript
+- Learning Git and GitHub
+- Exploring Frontend and Backend Development
+- Studying Computer Networking
+- Interested in Artificial Intelligence and Automation
+- Developing personal projects to apply my knowledge
 }
 
 📂 Projects
