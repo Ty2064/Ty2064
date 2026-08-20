@@ -25,7 +25,7 @@ I am currently building my foundation in technology through studies, personal pr
     <p> Languages</p> 
     <div>
         <img src="Profile images/CSS.png" alt="Logo" width="90" margin= "40px auto 0">
-        <img src="Profile images/HTML.jpg" alt="Logo" width="90" margin= "40px auto 0">
+        <img src="Profile images/HTML.PNG" alt="Logo" width="90" margin= "40px auto 0">
         <img src="Profile images/js.png" alt="Logo" width="90" margin= "40px auto 0">
         <img src="Profile images/C.png" alt="Logo" width="90" margin= "40px auto 0">
     </div>
