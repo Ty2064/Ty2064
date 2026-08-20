@@ -5,21 +5,47 @@
 
 I am currently building my foundation in technology through studies, personal projects, and hands-on experimentation. My goal is to turn the knowledge I acquire into functional projects and gain professional experience in the IT field.
 
-🚀 About Me
-{
-- Bachelor’s Degree in Information Systems
-- Studying Python
-- Studying HTML, CSS, JavaScript, and TypeScript
-- Learning Git and GitHub
-- Exploring Frontend and Backend Development
-- Studying Computer Networking
-- Interested in Artificial Intelligence and Automation
-- Developing personal projects to apply my knowledge
-}
+# About Me
+<div>
+    <ul> 
+        <li>  Bachelor’s Degree in Information Systems
+        <li> Studying Python
+        <li> Studying HTML, CSS, JavaScript, and TypeScript
+        <li> Learning Git and GitHub
+        <li> Exploring Frontend and Backend Development
+        <li> Studying Computer Networking
+        <li> Interested in Artificial Intelligence and Automation
+        <li> Developing personal projects to apply my knowledge
+    </ul>
+</div>
 
+# My stack
+<div>
+  <div align="center">
+    <p> Languages</p> 
+    <div>
+        <img src="Profile images/CSS.png" alt="Logo" width="90" margin= "40px auto 0">
+        <img src="Profile images/HTML.jpg" alt="Logo" width="90" margin= "40px auto 0">
+        <img src="Profile images/js.png" alt="Logo" width="90" margin= "40px auto 0">
+        <img src="Profile images/C.png" alt="Logo" width="90" margin= "40px auto 0">
+    </div>
+  </div>
+ 
+ 
+   <div align="center">
+    <p> Tools</p> 
+    <div>
+        <img src="Profile images/Vscode.png" alt="Logo" width="90" margin= "40px auto 0">
+        <img src="Profile images/microsoft.png" alt="Logo" width="90" margin= "40px auto 0">
+        <img src="Profile images/git.png" alt="Logo" width="90" margin= "40px auto 0">
+        <img src="Profile images/times.png" alt="Logo" width="90" margin= "40px auto 0">
+    </div>
+  </div>
+</div>  
+  
 📂 Projects
 
-🤖 Hermes Agent
+ Hermes Agent
 
 A project focused on customizing the Hermes AI agent running locally, exploring automation, tools, language models, and integration with different resources.
 
